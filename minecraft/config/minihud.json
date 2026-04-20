@@ -21,12 +21,12 @@
     "infoSpeedHV": 18,
     "infoSprinting": 19,
     "infoServerTPS": 20,
-    "\u00a76infoServux\u00a7r": 21,
+    "§6infoServux§r": 21,
     "infoPing": 22,
-    "\u00a76infoWeather\u00a7r": 23,
+    "§6infoWeather§r": 23,
     "infoTimeTotalModulo": 24,
     "infoTimeDayModulo": 25,
-    "\u00a76infoMobCaps\u00a7r": 26,
+    "§6infoMobCaps§r": 26,
     "infoParticleCount": 27,
     "infoDifficulty": 28,
     "infoEntities": 29,
@@ -45,10 +45,10 @@
     "infoLookingAtBlock": 42,
     "infoLookingAtBlockInChunk": 43,
     "infoBlockProperties": 44,
-    "\u00a76infoBeeCount\u00a7r": 45,
-    "\u00a76infoComparatorOutput\u00a7r": 46,
+    "§6infoBeeCount§r": 45,
+    "§6infoComparatorOutput§r": 46,
     "infoHoneyLevel": 47,
-    "\u00a76infoFurnaceXp\u00a7r": 48,
+    "§6infoFurnaceXp§r": 48,
     "infoEntityRegistryName": 49,
     "infoLookingAtEntity": 50,
     "infoLookingAtEffects": 51,
@@ -265,12 +265,12 @@
     "infoSpeedHV": false,
     "infoSprinting": false,
     "infoServerTPS": false,
-    "\u00a76infoServux\u00a7r": false,
+    "§6infoServux§r": false,
     "infoPing": false,
-    "\u00a76infoWeather\u00a7r": false,
+    "§6infoWeather§r": false,
     "infoTimeTotalModulo": false,
     "infoTimeDayModulo": false,
-    "\u00a76infoMobCaps\u00a7r": false,
+    "§6infoMobCaps§r": false,
     "infoParticleCount": false,
     "infoDifficulty": false,
     "infoEntities": false,
@@ -289,10 +289,10 @@
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
     "infoBlockProperties": false,
-    "\u00a76infoBeeCount\u00a7r": false,
-    "\u00a76infoComparatorOutput\u00a7r": false,
+    "§6infoBeeCount§r": false,
+    "§6infoComparatorOutput§r": false,
     "infoHoneyLevel": false,
-    "\u00a76infoFurnaceXp\u00a7r": false,
+    "§6infoFurnaceXp§r": false,
     "infoEntityRegistryName": false,
     "infoLookingAtEntity": false,
     "infoLookingAtEffects": false,
@@ -369,13 +369,13 @@
     "infoServerTPS": {
       "keys": ""
     },
-    "\u00a76infoServux\u00a7r": {
+    "§6infoServux§r": {
       "keys": ""
     },
     "infoPing": {
       "keys": ""
     },
-    "\u00a76infoWeather\u00a7r": {
+    "§6infoWeather§r": {
       "keys": ""
     },
     "infoTimeTotalModulo": {
@@ -384,7 +384,7 @@
     "infoTimeDayModulo": {
       "keys": ""
     },
-    "\u00a76infoMobCaps\u00a7r": {
+    "§6infoMobCaps§r": {
       "keys": ""
     },
     "infoParticleCount": {
@@ -441,16 +441,16 @@
     "infoBlockProperties": {
       "keys": ""
     },
-    "\u00a76infoBeeCount\u00a7r": {
+    "§6infoBeeCount§r": {
       "keys": ""
     },
-    "\u00a76infoComparatorOutput\u00a7r": {
+    "§6infoComparatorOutput§r": {
       "keys": ""
     },
     "infoHoneyLevel": {
       "keys": ""
     },
-    "\u00a76infoFurnaceXp\u00a7r": {
+    "§6infoFurnaceXp§r": {
       "keys": ""
     },
     "infoEntityRegistryName": {
@@ -500,33 +500,33 @@
     "overlaySpawnableColumnHeights": false,
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
-    "\u00a76overlayStructureMainToggle\u00a7r": false,
-    "\u00a76overlayVillagerInfo\u00a7r": false,
+    "§6overlayStructureMainToggle§r": false,
+    "§6overlayVillagerInfo§r": false,
     "shapeRenderer": false,
-    "\u00a76debugDataMainToggle\u00a7r": false,
-    "\u00a76debugBeeDataEnabled\u00a7r": false,
-    "\u00a76debugBrainEnabled\u00a7r": false,
-    "\u00a76debugBreezeJumpEnabled\u00a7r": false,
+    "§6debugDataMainToggle§r": false,
+    "§6debugBeeDataEnabled§r": false,
+    "§6debugBrainEnabled§r": false,
+    "§6debugBreezeJumpEnabled§r": false,
     "debugChunkBorder": false,
     "debugChunkInfo": false,
-    "\u00a76debugChunkLoading\u00a7r": false,
+    "§6debugChunkLoading§r": false,
     "debugChunkOcclusion": false,
     "debugCollisionBoxEnabled": false,
     "debugHeightmapEnabled": false,
     "debugLightEnabled": false,
-    "\u00a76debugNeighborsUpdateEnabled\u00a7r": false,
-    "\u00a76debugGameEventsEnabled\u00a7r": false,
-    "\u00a76debugGoalSelectorEnabled\u00a7r": false,
-    "\u00a76debugPathfindingEnabled\u00a7r": false,
-    "\u00a76debugRaidCenterEnabled\u00a7r": false,
+    "§6debugNeighborsUpdateEnabled§r": false,
+    "§6debugGameEventsEnabled§r": false,
+    "§6debugGoalSelectorEnabled§r": false,
+    "§6debugPathfindingEnabled§r": false,
+    "§6debugRaidCenterEnabled§r": false,
     "debugSkylightEnabled": false,
     "debugSolidFaceEnabled": false,
-    "\u00a76debugStructuresEnabled\u00a7r": false,
+    "§6debugStructuresEnabled§r": false,
     "debugSupportingBlock": false,
     "debugWaterEnabled": false,
-    "\u00a76debugVillageEnabled\u00a7r": false,
-    "\u00a76debugVillageSectionsEnabled\u00a7r": false,
-    "\u00a76debugWorldGenEnabled\u00a7r": false
+    "§6debugVillageEnabled§r": false,
+    "§6debugVillageSectionsEnabled§r": false,
+    "§6debugWorldGenEnabled§r": false
   },
   "RendererHotkeys": {
     "overlayBeaconRange": {
@@ -565,25 +565,25 @@
     "overlaySpawnChunkPlayer": {
       "keys": ""
     },
-    "\u00a76overlayStructureMainToggle\u00a7r": {
+    "§6overlayStructureMainToggle§r": {
       "keys": ""
     },
-    "\u00a76overlayVillagerInfo\u00a7r": {
+    "§6overlayVillagerInfo§r": {
       "keys": ""
     },
     "shapeRenderer": {
       "keys": ""
     },
-    "\u00a76debugDataMainToggle\u00a7r": {
+    "§6debugDataMainToggle§r": {
       "keys": ""
     },
-    "\u00a76debugBeeDataEnabled\u00a7r": {
+    "§6debugBeeDataEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugBrainEnabled\u00a7r": {
+    "§6debugBrainEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugBreezeJumpEnabled\u00a7r": {
+    "§6debugBreezeJumpEnabled§r": {
       "keys": ""
     },
     "debugChunkBorder": {
@@ -592,7 +592,7 @@
     "debugChunkInfo": {
       "keys": ""
     },
-    "\u00a76debugChunkLoading\u00a7r": {
+    "§6debugChunkLoading§r": {
       "keys": ""
     },
     "debugChunkOcclusion": {
@@ -607,19 +607,19 @@
     "debugLightEnabled": {
       "keys": ""
     },
-    "\u00a76debugNeighborsUpdateEnabled\u00a7r": {
+    "§6debugNeighborsUpdateEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugGameEventsEnabled\u00a7r": {
+    "§6debugGameEventsEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugGoalSelectorEnabled\u00a7r": {
+    "§6debugGoalSelectorEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugPathfindingEnabled\u00a7r": {
+    "§6debugPathfindingEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugRaidCenterEnabled\u00a7r": {
+    "§6debugRaidCenterEnabled§r": {
       "keys": ""
     },
     "debugSkylightEnabled": {
@@ -628,7 +628,7 @@
     "debugSolidFaceEnabled": {
       "keys": ""
     },
-    "\u00a76debugStructuresEnabled\u00a7r": {
+    "§6debugStructuresEnabled§r": {
       "keys": ""
     },
     "debugSupportingBlock": {
@@ -637,13 +637,13 @@
     "debugWaterEnabled": {
       "keys": ""
     },
-    "\u00a76debugVillageEnabled\u00a7r": {
+    "§6debugVillageEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugVillageSectionsEnabled\u00a7r": {
+    "§6debugVillageSectionsEnabled§r": {
       "keys": ""
     },
-    "\u00a76debugWorldGenEnabled\u00a7r": {
+    "§6debugWorldGenEnabled§r": {
       "keys": ""
     }
   },

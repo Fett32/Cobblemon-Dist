@@ -6,6 +6,14 @@ minecraft/replay_recordings/
 minecraft/cobblenav/
 minecraft/chesttracker/
 minecraft/legendary-monuments-data/
+minecraft/.bobby/
+minecraft/xaero/
+minecraft/XaeroWaypoints*/
+minecraft/showdown/
+minecraft/screenshots/
+minecraft/data/
+minecraft/server-resource-packs/
+minecraft/downloads/
 
 # Regenerated caches
 minecraft/dynamic-data-pack-cache/
