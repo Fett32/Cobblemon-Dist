@@ -1,0 +1,13 @@
+name = "Katters Structures - Ambient"
+filename = "katters-structures-only-ambient-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ys9iIcGC/versions/ealrpT96/katters-structures-only-ambient-2.1.jar"
+hash-format = "sha512"
+hash = "e2d050ff2e77639970b7a1b5bd1bb574c5635b27df560a9e44b1865801114706b4a5bf32c60233d5b9252e4a5e5cdc1d9224b318b6a8ef07ec8a95237804b8e9"
+
+[update]
+[update.modrinth]
+mod-id = "ys9iIcGC"
+version = "ealrpT96"

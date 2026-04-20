@@ -1,0 +1,19 @@
+# Exclude all mod jars (tracked via .pw.toml metadata instead)
+mods/*.jar
+mods/*.jar.disabled*
+
+# Keep the 2 FF-embedded jars as overrides (not on Modrinth)
+!mods/desert-mansion-2.4.jar
+!mods/ice_pillager_castle-3.4.jar
+
+# Exclude packwiz's own manifest files
+mods-list.txt
+
+# Local/runtime files
+data/
+*.log
+*.log.gz
+
+# Prism-specific
+../instance.cfg
+../mmc-pack.json

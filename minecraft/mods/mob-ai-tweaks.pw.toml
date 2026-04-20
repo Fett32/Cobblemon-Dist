@@ -1,0 +1,13 @@
+name = "Mob AI Tweaks"
+filename = "mob-ai-tweaks-1.9.2-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/egIM2bKK/versions/4T01A2Cy/mob-ai-tweaks-1.9.2-1.21.jar"
+hash-format = "sha512"
+hash = "7aebf70083c2dea28d5412f65884604e02d781f8c817e7d80af1f843e24fa4fd553b21fafc61f5b5397fecfee1978fd46f619afa9cc383a02f84de3c47f7104e"
+
+[update]
+[update.modrinth]
+mod-id = "egIM2bKK"
+version = "4T01A2Cy"

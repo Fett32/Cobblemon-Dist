@@ -1,0 +1,13 @@
+name = "Soothing Campfires"
+filename = "soothing-campfires-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BlhmSvsP/versions/1X9cpNCq/soothing-campfires-1.0.1.jar"
+hash-format = "sha512"
+hash = "97f4813ee8636c9e7a61b2c9deae53202688eb49e12a95abfa3f6d0f84f589a513542281ed54ea2c9f5eb8b3a1a08a509e0fd1440cdc05e13fca378b85fe8cdf"
+
+[update]
+[update.modrinth]
+mod-id = "BlhmSvsP"
+version = "1X9cpNCq"

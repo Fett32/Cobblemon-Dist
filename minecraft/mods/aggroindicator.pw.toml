@@ -1,0 +1,13 @@
+name = "Aggro Indicator"
+filename = "aggroindicator-fabric-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpUNthCL/versions/kDJi44uQ/aggroindicator-fabric-1.21.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "7a04088e27662c76e12b373b949c72c2531b364b5b4f8c83af586fcc2b47202eb0ea2bc26842662be879df727a6f7ba2c55836878029d1c65c6a77ef276a5350"
+
+[update]
+[update.modrinth]
+mod-id = "RpUNthCL"
+version = "kDJi44uQ"

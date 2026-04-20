@@ -1,0 +1,13 @@
+name = "Cobblemon: Cobbled Levels"
+filename = "CobbledLevels-fabric-2.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gwPAAvh/versions/uJngriZc/CobbledLevels-fabric-2.1.0.jar"
+hash-format = "sha512"
+hash = "fc44d64b45438a70752cf32b58141b799a3e2af1e21387f7c77ecb20e2ea4973691a7386e1175a62b5c7d517d7c96597406ca447519affdf8bf2bde9942a4928"
+
+[update]
+[update.modrinth]
+mod-id = "9gwPAAvh"
+version = "uJngriZc"

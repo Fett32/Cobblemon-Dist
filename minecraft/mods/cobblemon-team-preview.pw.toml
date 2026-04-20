@@ -1,0 +1,13 @@
+name = "Cobblemon: Team Preview"
+filename = "cobblemon_team_preview-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjp3jo0b/versions/92gMB5Jx/cobblemon_team_preview-1.0.0.jar"
+hash-format = "sha512"
+hash = "0ea165a84c35b101a7eea647f287388682005122680c45d8481693b6ee8d8fcdd52856f3ef7062cb006fb57a16501dfb37900f9891f02aee7a9ad3d13d5f2446"
+
+[update]
+[update.modrinth]
+mod-id = "jjp3jo0b"
+version = "92gMB5Jx"

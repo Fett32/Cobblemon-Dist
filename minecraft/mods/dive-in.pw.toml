@@ -1,0 +1,13 @@
+name = "Dive in"
+filename = "divein-0.1.14-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0RMHIS6/versions/npgBinn5/divein-0.1.14-1.21.1.jar"
+hash-format = "sha512"
+hash = "ff3fec4a0ed82b8ff0426d1458d9ed067259cf501f67f77334ca436d10f4109f7e90bf36c75165c524bb5a97425bcfe0653a9505cac4b53f1bc5295af3d355d3"
+
+[update]
+[update.modrinth]
+mod-id = "m0RMHIS6"
+version = "npgBinn5"

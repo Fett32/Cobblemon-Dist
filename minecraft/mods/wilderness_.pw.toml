@@ -1,0 +1,13 @@
+name = "Wilderness"
+filename = "wilderness_-1.0.0-backport.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vveRyvqZ/versions/CIfBIhD2/wilderness_-1.0.0-backport.jar"
+hash-format = "sha512"
+hash = "637c88fd1af11f5866bfad5c4511e4f8b049ff35739ac3aaff1da3b161dfc5bacbb59389de97a225b93ea0e3951c9bbcbba2cabae4c9b6e1acf8bbc778d2a873"
+
+[update]
+[update.modrinth]
+mod-id = "vveRyvqZ"
+version = "CIfBIhD2"

@@ -1,0 +1,13 @@
+name = "Yeehaw Towns!"
+filename = "YeehawTowns-1.0.3-1.21.x-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cz0fHRKU/versions/7nZIadF1/YeehawTowns-1.0.3-1.21.x-fabric.jar"
+hash-format = "sha512"
+hash = "9cec693d37df7078346a567e00f1b22d1f594e6fd5a804e6cd7ae7c17813abcc7f69517562941738d22c155dc2c7a87340b0e5e590c770c718207e4b1d21d9ca"
+
+[update]
+[update.modrinth]
+mod-id = "Cz0fHRKU"
+version = "7nZIadF1"
