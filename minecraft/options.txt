@@ -211,11 +211,11 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
-soundCategory_master:0.20019380447512153
-soundCategory_music:0.0
-soundCategory_record:0.413421058431969
-soundCategory_weather:0.37780202340805386
-soundCategory_block:0.596806189248165
+soundCategory_master:1.0
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
