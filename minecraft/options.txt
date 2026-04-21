@@ -164,7 +164,7 @@ key_ping-wheel.key.ping-location:key.mouse.5
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.unknown
 key_key.rearm.action:key.keyboard.unknown
-key_key.simplytooltips.cycle_tab:key.keyboard.g
+key_key.simplytooltips.cycle_tab:key.keyboard.unknown
 key_key.simplytooltips.capture_gif:key.keyboard.unknown
 key_key.sort_it_out.sort:key.keyboard.i
 key_toadlib.config.interpolation_overview:key.keyboard.i
