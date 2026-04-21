@@ -750,7 +750,7 @@ hash = "f32c3a85388aaf4214d01285a2167d8ecaf38f0288085ca66a038be15957f6e1"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "75094d21d1191a2ba550ab1a966e79968681c0ebd92014e375209c17ecbf0b07"
+hash = "0bec388a78215474000735f055b3838eab3ff931e03bdd6dec73902ea575e596"
 
 [[files]]
 file = "config/invmove.json"
