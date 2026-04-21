@@ -3340,6 +3340,11 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "d067722ee7d1cc4863e34a63151375f716d36fe7852023b94d5a2a6d06d8ade2"
 metafile = true
@@ -3672,11 +3677,6 @@ metafile = true
 [[files]]
 file = "mods/sleep.pw.toml"
 hash = "48c0a153aca68d582623a016aeca10c8e9e4a859fbb2f8e97bb88f54ec761c9d"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "63af7ce87d6383fee3e52b7bff37b7a03a6a1dc08a70b6f525a2ff3bf8fb797f"
 metafile = true
 
 [[files]]
