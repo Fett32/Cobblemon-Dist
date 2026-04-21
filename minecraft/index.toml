@@ -3541,7 +3541,7 @@ metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "536b7e3fd2e605a61443ae7e8ad655edc042e9f24b6235ccceffdf52d660e657"
+hash = "8523bd5a99bcb4676241606c7a776b5d1b10f84a676333d539a8b59a00d2dcfc"
 metafile = true
 
 [[files]]
