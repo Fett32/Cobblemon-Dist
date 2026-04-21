@@ -1,12 +1,12 @@
 name = "Cobblemon Dist"
 author = "Fett"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "70385074c560e085d3532450615529ebd0d1a4657cd7e8e12188fb12ba8dd877"
+hash = "367f0c25dd0185958e9c7b2b066b312cc9e1d123de0cf1aa21b56b4bb798053a"
 
 [versions]
 fabric = "0.19.2"

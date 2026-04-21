@@ -3580,11 +3580,6 @@ hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
-file = "mods/poketwo.pw.toml"
-hash = "a5dcfa0396e699a5300ebfdb86916e3092936c7b7d9b67dfe4579801b78f3f1e"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "0bc4266f50288f9a9d78e84745b50bf6886e0ff69ba78561867e6e32d2292b09"
 metafile = true
