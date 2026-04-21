@@ -3420,6 +3420,11 @@ hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
 metafile = true
 
 [[files]]
+file = "mods/mandawaystones.pw.toml"
+hash = "0fc5cae7ea6d9aa57de78d1d4653081a51ee0490a51d95e398c35556cf38f12a"
+metafile = true
+
+[[files]]
 file = "mods/mega-showdown-item-pack.pw.toml"
 hash = "b2f2b5724e02b40af72c791174f2aae9e36b6bd6685eef69b95d961be2d98548"
 metafile = true

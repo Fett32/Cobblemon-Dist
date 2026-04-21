@@ -1,0 +1,8 @@
+name = "MandaWaystones"
+filename = "mandawaystones-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Fett32/Cobblemon-Dist/main/minecraft/mods/mandawaystones-1.0.0.jar"
+hash-format = "sha256"
+hash = "7a19d50769c02cc4848dadb0c1fdedf77471f9a29f4d3c99631fbbffc737d150"
