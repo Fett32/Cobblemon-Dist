@@ -74,7 +74,7 @@ hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "7b075abb5c2839d5fc6922a8b6a5cc29f4e6687d3927794830a840603dc15c91"
+hash = "51c5feecb8ff12e3bfe309cf2b118b9f6765c515c9ba13261637668d6d7b7672"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -742,7 +742,7 @@ hash = "029b69d096c5db4ff427449151d3e39ad451feaf4e29bd5d030b1f550172198a"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
-hash = "6f00eda1d5e852de126b34d4a4c843457ebc4b1c868c54fd0b6153ce8dae4b39"
+hash = "5b0d61db1e20e56bef59ce3378f5c6e68fa201f2f01bb86abde6f64aa9c8cab3"
 
 [[files]]
 file = "config/inventoryessentials-common.toml.bak1"
