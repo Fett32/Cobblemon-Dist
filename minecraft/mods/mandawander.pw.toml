@@ -1,0 +1,8 @@
+name = "MandaWander"
+filename = "mandawander-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Fett32/Kayri-Ranch/main/minecraft/mods/mandawander-1.0.2.jar"
+hash-format = "sha256"
+hash = "4e30098ad8fdcb94e607ba0c6fc3fd846ea30cd670bbc331e4b14baaaea2c762"

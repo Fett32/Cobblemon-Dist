@@ -1,12 +1,12 @@
 name = "Kayri Ranch"
 author = "Fett"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "01d91ef060493ac3cd1a3be1e1e2adc8d10b63c91875006ff8e4181257289030"
+hash = "3764387edf9da687a0622b12fddcb19a73734d347ba8372693188cb30ef34c79"
 
 [versions]
 fabric = "0.19.2"
