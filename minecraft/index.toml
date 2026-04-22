@@ -2842,7 +2842,7 @@ hash = "c418a16a9cbed9249c8b52a295fed405c4ee225ee2cb65a1bce41c7edb164322"
 
 [[files]]
 file = "icon.png"
-hash = "123202cf679600422c9cda69c39cf6a10937ae183e384070b7b0ffe963659a66"
+hash = "1eaa133ad48a573fefa707915e89b8084e31e31ebdc84a2fe88716166aa36fe3"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -3426,7 +3426,7 @@ metafile = true
 
 [[files]]
 file = "mods/mandawaystones.pw.toml"
-hash = "0fc5cae7ea6d9aa57de78d1d4653081a51ee0490a51d95e398c35556cf38f12a"
+hash = "031cf24981ccac7d24342d06acc266caa787fd754506cec99b95b1feb7c9ba5f"
 metafile = true
 
 [[files]]
