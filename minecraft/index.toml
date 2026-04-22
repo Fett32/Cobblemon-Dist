@@ -3060,6 +3060,11 @@ hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon_tp_pastures.pw.toml"
+hash = "ff713499f8b6f861a86161aee66bdf143b4d9989fc261be2b9f5c1b8797ca00f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonmovedex.pw.toml"
 hash = "900bb3c60f4d94fc1af4c76b034469706d34264fab64e4a45ff53fcbee66eef4"
 metafile = true
@@ -3130,6 +3135,11 @@ hash = "115d179e229ade3d7d3ba242f03bb6da8f76d7c7f8d00a61bbbfa20f6b0c65ba"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "0297d2dc4d06bb54560911ffc610fc301646621fabff02f5e50315d559a9a51d"
 metafile = true
@@ -3157,6 +3167,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "3520d342edbddfa60a321a9c4a42738d6005ed005c4db7e95c7dcf419bfcde70"
 metafile = true
 
 [[files]]
@@ -3215,6 +3230,11 @@ hash = "6ac42e3bd73092f7b525c3a0976c2cce5fee94329c191ad662bf9e5f4c33140d"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "ebc2028adcda30978da8834b5bd20aa5bd4c4fbb1ab773474a6d848eb680fbad"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "d8cdb69801ff0ffdf8c9cf6834dd592ca79ce1da139d303f8d17a62afec1abe2"
 metafile = true
@@ -3242,6 +3262,11 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "2fd16929b658c66a32982e91eb55c333bd4bcc14127582a7f6e38268f9aaccf6"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
@@ -3417,6 +3442,21 @@ metafile = true
 [[files]]
 file = "mods/lukis-strongholds.pw.toml"
 hash = "338f32c02d925119fc87cbd69e6539c4c284d56725cae17efaea727067b7a21e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "2a351e405d3bbf633a34f4a08deb1f4aacbcff960f4e6e44fbb67fe0e07e3044"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "8d4ecc66f120419b4bc09fdd14151d2a207ddec30b46ae2184300fec0031b092"
 metafile = true
 
 [[files]]
@@ -3625,6 +3665,11 @@ hash = "f7246ab5c1b399248500107021535ba05e260a4ab131a06d21da411eb5b184be"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "ca4ed7517ffc8183e07a3c068cde1ae32cc5f580cf7f06b6be31ade185f00bb8"
+metafile = true
+
+[[files]]
 file = "mods/recipe-book-access-api.pw.toml"
 hash = "5362453bbd40a78a934215eadc76ac6f5ccedb54a3200223d11c0cbd59ed2748"
 metafile = true
@@ -3702,6 +3747,16 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "7847bb3ea85bd33ab997a52596da208ca2752f028d3ff3502f0780d532e7546a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "64fa6356e818a3e773834a283e8453f2659f7e367de6d56a7dc585ea414bf121"
 metafile = true
 
 [[files]]
