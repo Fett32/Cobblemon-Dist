@@ -59,5 +59,8 @@ minecraft/config/spark/tmp-*/
 # Sensitive configs
 minecraft/config/resourceful-config-web.json
 
+# Shaderpacks — personal preference, heavy, not shipped with the pack
+minecraft/shaderpacks/*.zip
+
 # Core dumps
 core.*
